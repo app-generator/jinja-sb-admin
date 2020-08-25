@@ -20,18 +20,17 @@
     {% block stylesheets %}{% endblock stylesheets %}
 
 </head>
-<body class="sb-nav-fixed">
+<body>
 
-    {% include 'includes/navigation.html' %}
+    <div id="layoutError">
+        <div id="layoutError_content">
 
-    <div id="layoutSidenav">
-        
-        {% include 'includes/sidebar.html' %}
-
-        <div id="layoutSidenav_content">
-            
             {% block content %}{% endblock content %}
-            
+
+        </div>
+
+        <div id="layoutError_footer">
+
             {% include 'includes/footer.html' %}
 
         </div>
@@ -41,6 +40,6 @@
 
     <!-- Specific Page JS goes HERE  -->
     {% block javascripts %}{% endblock javascripts %}
-        
+            
     </body>
 </html>
