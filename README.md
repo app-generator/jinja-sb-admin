@@ -1,4 +1,4 @@
-# [Jinja Template - Sb Admin](https://jinja-template-sb-admin.appseed.us/)
+# [Jinja Template](https://github.com/app-generator/jinja-template) - Sb Admin
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -15,7 +15,7 @@
 
 <br />
 
-## UI Kit - [SB Admin](https://startbootstrap.com/templates/sb-admin/?ref=appseed)
+## UI Kit - SB Admin
 
 *Vendor Notes* - SB Admin is a free, open source, MIT licensed Bootstrap admin template. This template uses the default Bootstrap 4 styles along with a variety of plugins to create a powerful framework for creating admin panels, web apps, or dashboard UI's for your next project.
 
@@ -182,4 +182,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template - Sb Admin](https://jinja-template-sb-admin.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://github.com/app-generator/jinja-template) Sb Admin - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
