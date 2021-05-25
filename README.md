@@ -14,7 +14,7 @@
 > Links
 
 - [Jinja Sb Admin](https://jinja-sb-admin.appseed-srv1.com) - LIVE Demo
-- [Jinja SB Admin](https://docs.appseed.us/jinja-template/sb-admin) - Product documentation
+- [Jinja SB Admin](https://docs.appseed.us/products/jinja-templates/sb-admin) - Product documentation
 
 <br />
 
